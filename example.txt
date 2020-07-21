@@ -1,0 +1,37 @@
+./start                                                                 User Commands                                                                 start
+       ./start - Install Terraform and modules for Google Provider and deploy Cluster.
+
+SYNOPSIS
+
+       ./start -p CREATE -tf M
+       ./start [OPTION] []...
+
+DESCRIPTION
+Syntax
+	./start	
+		Call this scripts 
+ 
+[OPTION]
+-p
+	CREATE 
+		Install Terraform + Google Modules. 
+	DESTROY
+		From Terraform destroy Cluster. 
+	OUTPUT
+		
+-tf 
+        L         
+		Install and Initialize Terraform on Linux
+
+        M  
+		Install and Initialize Terraform on MacOS - beta
+Example
+	
+	./start -p CREATE -tf L	
+				(Install Terraform on Linux and deploy Cluster)
+					
+	./start -p CREATE -tf M
+				(Install Terraform on MacOs and deploy Cluster) 
+
+
+ 
