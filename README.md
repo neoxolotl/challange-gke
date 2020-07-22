@@ -135,6 +135,4 @@ AIzaSyDFLr3jI-KJfoIw8-_ZDEuJEut-8Ug-Edc
 
 
 Links: 
-https://www.padok.fr/en/blog/kubernetes-google-cloud-terraform-cluster 
-https://github.com/GoogleCloudPlatform/gke-vault-demo#configure-authentication
 
